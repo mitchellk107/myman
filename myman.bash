@@ -64,9 +64,9 @@ case "$1" in
     echo -e "\`man\`: Shows detailed help for a command.\nExample:\n  man ls"
     ;;
   "")
-    echo "You didn't type a command. Try: myman ls"
+    echo "It seems like you didn't type a command."
     ;;
   *)
-    echo "Sorry! I don't have information for '$1'."
+    echo "Sorry! There is no information for: '$1'."
     ;;
 esac
