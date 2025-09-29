@@ -6,4 +6,4 @@ To install, make sure myman.bash is executable with chmod +x myman.bash, then ru
 
 The script is easy to customize too! You just open it and add new commands under the case "$1" in section. 
 
-This tool was made by a beginner to Linux so feel free to improve as needed.
+Feel free to improve as needed!
